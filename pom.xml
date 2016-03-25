@@ -29,7 +29,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>classes/</classpathPrefix>
-            <mainClass>src.controller.MainController</mainClass>
+            <mainClass>bin.controller.MainController</mainClass>
           </manifest>
         </archive>
       </configuration>
