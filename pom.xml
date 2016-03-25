@@ -28,7 +28,7 @@
         <archive>
           <manifest>
             <addClasspath>true</addClasspath>
-            <classpathPrefix>/bin/controller/</classpathPrefix>
+            <classpathPrefix>../bin/controller/</classpathPrefix>
             <mainClass>MainController</mainClass>
           </manifest>
         </archive>
